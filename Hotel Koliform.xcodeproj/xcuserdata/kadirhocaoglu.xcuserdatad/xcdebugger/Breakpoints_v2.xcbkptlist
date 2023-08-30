@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "05EE1659-BA56-4394-99E6-DB144506AEB5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA3B3EDA-E010-4B25-951B-92F1399D2E51"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Koliform/Controllers/AddRegistrationTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "didSelect(roomType:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3969371A-4B0B-445D-8634-C180885BB429"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Koliform/Controllers/AddRegistrationTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "536302CD-6A97-48D9-91CA-B91EC49C4D01"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Koliform/Controllers/AddRegistrationTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "68C20A21-3C01-41B0-85C3-FE754518597A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Koliform/Controllers/SelectRoomTypeTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4AFA85DD-38B2-476C-9362-83DA5521CE83"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Koliform/Controllers/SelectRoomTypeTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "115A5DC1-9EA3-48DF-9699-4CB42F257295"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Koliform/Controllers/SelectRoomTypeTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "115A5DC1-9EA3-48DF-9699-4CB42F257295 - a99224e061f3e91a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hotel_Koliform.SelectRoomTypeTableViewController.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Hotel Koliform"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kadirhocaoglu/Desktop/Kadir%20with%20Swift/Projects/Hotel%20Koliform/Hotel%20Koliform/Controllers/SelectRoomTypeTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "492">
+               </Location>
+               <Location
+                  uuid = "115A5DC1-9EA3-48DF-9699-4CB42F257295 - a99224e061f3eaff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hotel_Koliform.SelectRoomTypeTableViewController.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Hotel Koliform"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kadirhocaoglu/Desktop/Kadir%20with%20Swift/Projects/Hotel%20Koliform/Hotel%20Koliform/Controllers/SelectRoomTypeTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "744">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9EB27066-F1AE-4F50-A6A2-041BE0549131"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Koliform/Controllers/SelectRoomTypeTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "SelectRoomTypeTableViewControllerDelegate"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2DC1EA0-879F-47FB-B403-9FF6B23F1226"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Koliform/Controllers/SelectRoomTypeTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "SelectRoomTypeTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C2DC1EA0-879F-47FB-B403-9FF6B23F1226 - 6ed2696d72824be5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hotel_Koliform.SelectRoomTypeTableViewController.delegate.getter : Swift.Optional&lt;Hotel_Koliform.SelectRoomTypeTableViewControllerDelegate&gt;"
+                  moduleName = "Hotel Koliform"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kadirhocaoglu/Desktop/Kadir%20with%20Swift/Projects/Hotel%20Koliform/Hotel%20Koliform/Controllers/SelectRoomTypeTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "C2DC1EA0-879F-47FB-B403-9FF6B23F1226 - 64b043709f4533f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hotel_Koliform.SelectRoomTypeTableViewController.delegate.setter : Swift.Optional&lt;Hotel_Koliform.SelectRoomTypeTableViewControllerDelegate&gt;"
+                  moduleName = "Hotel Koliform"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kadirhocaoglu/Desktop/Kadir%20with%20Swift/Projects/Hotel%20Koliform/Hotel%20Koliform/Controllers/SelectRoomTypeTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "C2DC1EA0-879F-47FB-B403-9FF6B23F1226 - 9c17827f1659fde6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hotel_Koliform.SelectRoomTypeTableViewController.delegate.modify : Swift.Optional&lt;Hotel_Koliform.SelectRoomTypeTableViewControllerDelegate&gt;"
+                  moduleName = "Hotel Koliform"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kadirhocaoglu/Desktop/Kadir%20with%20Swift/Projects/Hotel%20Koliform/Hotel%20Koliform/Controllers/SelectRoomTypeTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "C2DC1EA0-879F-47FB-B403-9FF6B23F1226 - cdbdcb08a5b7f49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hotel_Koliform.SelectRoomTypeTableViewController.delegate.modify : Swift.Optional&lt;Hotel_Koliform.SelectRoomTypeTableViewControllerDelegate&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Hotel Koliform"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kadirhocaoglu/Desktop/Kadir%20with%20Swift/Projects/Hotel%20Koliform/Hotel%20Koliform/Controllers/SelectRoomTypeTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "C2DC1EA0-879F-47FB-B403-9FF6B23F1226 - e49033471e6099fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hotel_Koliform.SelectRoomTypeTableViewController.init(style: __C.UITableViewStyle) -&gt; Hotel_Koliform.SelectRoomTypeTableViewController"
+                  moduleName = "Hotel Koliform"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kadirhocaoglu/Desktop/Kadir%20with%20Swift/Projects/Hotel%20Koliform/Hotel%20Koliform/Controllers/SelectRoomTypeTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "C2DC1EA0-879F-47FB-B403-9FF6B23F1226 - 916dfd9f8c6b2af1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hotel_Koliform.SelectRoomTypeTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Hotel_Koliform.SelectRoomTypeTableViewController"
+                  moduleName = "Hotel Koliform"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kadirhocaoglu/Desktop/Kadir%20with%20Swift/Projects/Hotel%20Koliform/Hotel%20Koliform/Controllers/SelectRoomTypeTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "C2DC1EA0-879F-47FB-B403-9FF6B23F1226 - e8b9fe6189efe2cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hotel_Koliform.SelectRoomTypeTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Hotel_Koliform.SelectRoomTypeTableViewController&gt;"
+                  moduleName = "Hotel Koliform"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kadirhocaoglu/Desktop/Kadir%20with%20Swift/Projects/Hotel%20Koliform/Hotel%20Koliform/Controllers/SelectRoomTypeTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D846D200-F342-4A50-8C73-A8A39EF22359"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Koliform/Controllers/AddRegistrationTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "updateRoomType()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

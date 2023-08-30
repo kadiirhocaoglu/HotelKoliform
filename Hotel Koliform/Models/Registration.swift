@@ -16,8 +16,9 @@ struct Registration{
     var checkOutDate: Date
     var numberOfAdults: Int
     var numberOfChildren: Int
-    var roomTpye: RoomType
+    var roomType: RoomType
     var wifiService: Bool
+    
 }
 
 
